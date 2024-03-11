@@ -41,4 +41,4 @@ This project effectively combines cloud-based data retrieval with local sensor m
 ![Sample graphs](https://github.com/PredictivePro/Embedded-Air-Quality-Measurement-System/assets/127553275/e23a6f8d-3aee-4eee-b4d0-a6d5380d26b1)
 ![Cloud visualization](https://github.com/PredictivePro/Embedded-Air-Quality-Measurement-System/assets/127553275/0484c8a8-b203-44bf-b8e4-5a271b1651b1)
 
-Author: Alfred Sabu
+Author: Abhilash Adya
