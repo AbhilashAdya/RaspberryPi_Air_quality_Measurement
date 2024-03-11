@@ -1,4 +1,4 @@
-# Embedded-Air-Quality-Measurement-System
+# RaspberryPi_Air_Quality_Measurement
 This repository contains the code for an embedded Air Quality Index (AQI) measurement system. The system reads and visualizes atmospheric data saved in cloud storage while also measuring local temperature and humidity using a Raspberry Pi-based Pitrokli system. The code calculates the AQI using the available data and writes it to a cloud server, where it is graphically visualized. The Pitrokli system displays mean values of the measurements using a 7-segment display and provides graphical representations using a matrix LED display.
 
 # Components
